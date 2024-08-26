@@ -1,0 +1,56 @@
+.login-register-page {
+    background-color: #f8f9fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.login-container {
+    max-width: 400px;
+    padding: 2rem;
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+.login-container h2 {
+    margin-bottom: 1.5rem;
+}
+.login-container .form-group {
+    margin-bottom: 1rem;
+}
+.login-container .form-group label {
+    font-weight: 500;
+}
+.login-container .btn-primary {
+    width: 100%;
+}
+
+.register-container {
+    max-width: 400px;
+    padding: 2rem;
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.register-container h2 {
+    margin-bottom: 1.5rem;
+}
+
+.register-container .form-group {
+    margin-bottom: 1rem;
+}
+
+.register-container .form-group label {
+    font-weight: 500;
+}
+
+.register-container .btn-primary {
+    width: 100%;
+}
+
+.task-list {
+    max-height: 410px;
+    overflow-y: auto;
+    
+}
