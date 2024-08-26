@@ -22,7 +22,7 @@ Las tareas son privadas y solo pueden ser gestionadas por el usuario que las cre
 - scriptSQL.sql
 
 3.Configura el archivo de conexión a la base de datos:
-Edita el archivo config.php con tus detalles de conexión a MySQL.
+- Edita el archivo config.php con tus detalles de conexión a MySQL.
 
 4.Accede a la aplicación:
-Visita la url segun la ubicacion en tu navegador para empezar a usar la aplicación ejemplo: "http://localhost/ToDo/resource/login.php"
+- Visita la url segun la ubicacion en tu navegador para empezar a usar la aplicación ejemplo: "http://localhost/ToDo/resource/login.php"
