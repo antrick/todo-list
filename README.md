@@ -18,7 +18,7 @@ Las tareas son privadas y solo pueden ser gestionadas por el usuario que las cre
 - Coloca la carpeta ToDo en el directorio accesible por tu servidor web
 
 2.Configura la base de datos:
-- Importa el archivo SQL para crear la base de datos y las tabla.
+- Importa el archivo SQL que se encuentra en la carpeta sql para crear la base de datos y las tabla.
 - scriptSQL.sql
 
 3.Configura el archivo de conexión a la base de datos:
