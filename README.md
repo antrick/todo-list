@@ -13,13 +13,13 @@ Las tareas son privadas y solo pueden ser gestionadas por el usuario que las cre
 ## Instalación
 
 1.Clona el repositorio:
-   git clone "https://github.com/antrick/todo-list.git"
-   cd todo-app
-   Coloca la carpeta ToDo en el directorio accesible por tu servidor web
+- git clone "https://github.com/antrick/todo-list.git"
+- cd todo-app
+- Coloca la carpeta ToDo en el directorio accesible por tu servidor web
 
 2.Configura la base de datos:
-Importa el archivo SQL para crear la base de datos y las tabla.
-scriptSQL.sql
+- Importa el archivo SQL para crear la base de datos y las tabla.
+- scriptSQL.sql
 
 3.Configura el archivo de conexión a la base de datos:
 Edita el archivo config.php con tus detalles de conexión a MySQL.
